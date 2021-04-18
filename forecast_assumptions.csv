@@ -1,0 +1,32 @@
+variable,readable.name,forecast.value,min.terminal,max.terminal
+sales.growth.2022,Sales Growth in 2022,0.4419455,0.2419455,0.6419455
+sales.growth,Sales Growth,0.0550000,0.0500000,0.0600000
+cogs.over.sales,Cost of Goods Sold/Sales,0.1800000,0.1350000,0.2250000
+r.and.d.over.sales,R&D/Sales,0.1020000,0.0765000,0.1275000
+sg.and.a.over.sales,SG&A/Sales,0.2209200,0.1656900,0.2430120
+dep.amort.over.ppe,Dep&Amort/Avge PP&E and Intang.,0.0997000,0.0897300,0.1096700
+net.interest.over.net.debt,Net Interest Expense/Avge Net Debt,0.0383000,0.0344700,0.0421300
+other.income.over.sales,Other Income/Sales,0.0000000,0.0000000,0.0000000
+effective.tax.rate,Effective Tax Rate,0.1990000,0.1791000,0.2189000
+minority.interest.over.after.tax.income,Minority Interest/After Tax Income,0.0067000,0.0060300,0.0073700
+other.adjustments.over.sales,Other Adjustments/Sales,0.0000000,0.0000000,0.0000000
+ext.items.over.sales,Ext. Items & Disc. Ops./Sales,0.0000000,0.0000000,0.0000000
+preferred.dividends.over.stock,Pref. Dividends/Avge Pref. Stock,0.0000000,0.0000000,0.0000000
+end.op.cash.over.sales,Ending Operating Cash/Sales,0.4622000,0.4159800,0.5084200
+end.receivables.over.sales,Ending Receivables/Sales,0.2446000,0.2201400,0.2690600
+end.inventories.over.sales,Ending Inventories/Sales,0.0134000,0.0120600,0.0147400
+end.current.assets.over.sales,Ending Other Current Assets/Sales,0.0561000,0.0504900,0.0617100
+end.accounts.payable.over.sales,Ending Accounts Payable/Sales,0.0594000,0.0534600,0.0653400
+end.tax.payable.over.sales,Ending Taxes Payable/Sales,0.0120000,0.0108000,0.0132000
+end.other.current.liabs.over.sales,Ending Other Current Liabs/Sales,0.2777000,0.2499300,0.3054700
+end.ppe.over.sales,Ending Net PP&E/Sales,0.1534000,0.1380600,0.1687400
+end.investments.over.sales,Ending Investments/Sales,0.0627000,0.0564300,0.0689700
+end.intangibles.over.sales,Ending Intangibles/Sales,0.5342000,0.4807800,0.5876200
+end.other.assets.over.sales,Ending Other Assets/Sales,0.0780000,0.0702000,0.0858000
+other.liabilities.over.sales,Other Liabilities/Sales,0.1632000,0.1468800,0.1795200
+deferred.taxes.over.sales,Deferred Taxes/Sales,0.0258000,0.0232200,0.0283800
+current.debt.over.total.assets,Current Debt/Total Assets,0.0356000,0.0320400,0.0391600
+long.term.debt.over.total.assets,Long-Term Debt/Total Assets,0.2286000,0.2057400,0.2514600
+minority.interest.over.total.assets,Minority Interest/Total Assets,0.0027000,0.0024300,0.0029700
+preferred.stock.over.total.assets,Preferred Stock/Total Assets,0.0013000,0.0011700,0.0014300
+dividend.payout.ratio,Dividend Payout Ratio,0.0000000,0.0000000,0.0000000
